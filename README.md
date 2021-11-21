@@ -95,7 +95,15 @@ Mi pongo quindi nella cartella del cluster Spark ed effettuo il comando:
 ```bash
     sudo chmod 777 -R .*
 ```
+### **Esecuzione in locale per Windows**
+Oltre ad eseguire i passi precedenti, è necessario inserire all' interno del progetto la cartella, scaricabile da questa repository, denominata hadoop.
 
+A seguito di ciò, bisogna inserire il seguente frammento di codice per poter includere i file contenuti all' interno della cartella hadoop, è importante inserire queste direttive precendetemente a qualsiasi utilizzo della libreria di spark.
+```java
+    System.setProperty("hadoop.home.dir", "path ASSOLUTO alla cartella hadoop presente nel progetto");
+    System.load("**path ASSOLUTO al file hadoop.dll, presente nella cartella hadoop**");
+```
+Per ricavare il path è necessario, all' interno di Intellij, selezionare la cartella hadoop e scegliere **Copy Path/Reference** -> **Absolute Path**
 
 # Hadoop
 Avviare poi il cluster tramite le istruzioni sopra riportate e effettuare le seguenti istruzioni all'interno del **terminale del nodo master**.
