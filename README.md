@@ -1,5 +1,5 @@
-
-## Appunti per la esecuzione di esercizi su hdfs
+# UNISA corso HIGH PERFORMANCE COMPUTING 21/22 docente Luca Greco
+## Appunti per la esecuzione di esercizi CLUSTER PROGRAMMING CON HADOOP/MAP-REDUCE
 <hr>
 <br>
 <br>
