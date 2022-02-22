@@ -1,5 +1,4 @@
-# UNISA corso HIGH PERFORMANCE COMPUTING 21/22 docente Luca Greco
-## Appunti per la esecuzione di esercizi CLUSTER PROGRAMMING CON HADOOP/MAP-REDUCE
+# UNISA - high performance computing 21/22 docente Luca Greco, appunti per la esecuzione di esercizi cluster programming con hadoop/map-reduce
 <hr>
 <br>
 <br>
