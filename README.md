@@ -2,6 +2,7 @@
 ### docente Luca Greco, appunti per la esecuzione di esercizi cluster programming con hadoop/map-reduce
 <br>
 <br>
+
 ## Avviare il cluster
 Porsi nella cartella del cluster e avviarlo attraverso il comando 
 
