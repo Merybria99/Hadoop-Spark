@@ -1,5 +1,5 @@
-# UNISA - high performance computing 21/22 docente Luca Greco, appunti per la esecuzione di esercizi cluster programming con hadoop/map-reduce
-<hr>
+# UNISA - high performance computing 21/22 
+### docente Luca Greco appunti per la esecuzione di esercizi cluster programming con hadoop/map-reduce
 <br>
 <br>
 ## Avviare il cluster
