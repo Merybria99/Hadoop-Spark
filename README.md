@@ -1,5 +1,8 @@
-# Appunti per la esecuzione di esercizi su hdfs
 
+## Appunti per la esecuzione di esercizi su hdfs
+<hr>
+<br>
+<br>
 ## Avviare il cluster
 Porsi nella cartella del cluster e avviarlo attraverso il comando 
 
